@@ -14,6 +14,3 @@ Website: https://roxannen9n.github.io/
 - `assets/Resume.pdf`: upload đè cùng tên để đổi CV.
 - `assets/selected_trees.png`: hình kết quả shading.
 
-Không cần cài phần mềm. GitHub Pages xuất bản trực tiếp từ nhánh `main`, thư mục gốc. Không cần build hay dependencies.
-
-Nội dung dựa trên profile https://github.com/roxannen9n/roxannen9n . Bố cục lấy cảm hứng từ https://tulliavu.github.io/vutrucquynh.github.io/ , được viết lại độc lập.

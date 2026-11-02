@@ -1,0 +1,3 @@
+outputs/
+.openai/
+*.tar.gz

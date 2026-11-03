@@ -2,7 +2,7 @@
 
 Website: https://roxannen9n.github.io/
 
-## Sửa nội dung ngay trên GitHub
+## Edit
 
 1. Bấm [Edit website content](https://github.com/roxannen9n/roxannen9n.github.io/edit/main/index.html).
 2. Tìm đoạn chữ bằng Ctrl+F và thay phần chữ giữa các thẻ HTML. Ví dụ `<p>Hello</p>` thành `<p>Hi, I'm Roxanne.</p>`.
